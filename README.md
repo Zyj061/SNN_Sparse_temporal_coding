@@ -1,0 +1,2 @@
+# SNN_Sparse_temporal_coding
+TNNLS_2018
