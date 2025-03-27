@@ -19,6 +19,14 @@ The **true innovation** of this project lies in **Step 2**, so you can directly 
 
 ## 🔬 1. Unsupervised Training with STDP-based HMAX
 
+> ⚠️ The STDP training files are **too large to upload to this repository directly**.  
+> After cloning this project, please manually download the STDP-related code and files to the main project directory from the following Baidu Netdisk link:
+
+📦 **STDP Files Download**:  
+🔗 [https://pan.baidu.com/s/142AA_z4AHyVp-JURZaKYrw?pwd=0601](https://pan.baidu.com/s/142AA_z4AHyVp-JURZaKYrw?pwd=0601)  
+🔑 **Extraction Code**: `0601`  
+(Shared via Baidu Netdisk Super Member v2)
+
 1. Run the script `stdpRum.m` located in the `STDP/script` directory to perform unsupervised training on the 3D dataset and extract image features.
 
    After the training, save all feature data into `DATA.mat`:
