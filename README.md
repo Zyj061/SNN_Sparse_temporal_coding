@@ -4,9 +4,9 @@
 **Date:** April 2017  
 
 > 📄 This repository contains the **implementation code** for our paper:  
-> **"Spike-Based Motion Estimation for Object Tracking Through Bio-Inspired Unsupervised Learning"**  
-> 📰 Published in *IEEE Transactions on Circuits and Systems I: Regular Papers*  
-> 🔗 [Read the paper on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9985998)
+> **"Sparse temporal encoding of visual features for robust object recognition by spiking neurons"**  
+> 📰 Published in *IEEE transactions on neural networks and learning systems (TNNLS)*  
+> 🔗 [Read the paper on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8327895)
 
 ---
 
@@ -71,13 +71,16 @@ Your support encourages us to continue exploring brain-inspired AI. 🌟🧠
 ### 📚 Cite our work:
 
 ```bibtex
-@article{zheng2022spike,
-  title={Spike-Based Motion Estimation for Object Tracking Through Bio-Inspired Unsupervised Learning},
-  author={Zheng, Yajing and others},
-  journal={IEEE Transactions on Circuits and Systems I: Regular Papers},
-  year={2022},
+@article{zheng2018sparse,
+  title={Sparse temporal encoding of visual features for robust object recognition by spiking neurons},
+  author={Zheng, Yajing and Li, Shixin and Yan, Rui and Tang, Huajin and Tan, Kay Chen},
+  journal={IEEE transactions on neural networks and learning systems},
+  volume={29},
+  number={12},
+  pages={5823--5833},
+  year={2018},
   publisher={IEEE}
 }
 ```
 
-🔗 [https://ieeexplore.ieee.org/abstract/document/9985998](https://ieeexplore.ieee.org/abstract/document/9985998)
+🔗 [https://ieeexplore.ieee.org/abstract/document/8327895](https://ieeexplore.ieee.org/abstract/document/8327895)
